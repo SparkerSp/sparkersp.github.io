@@ -3,4 +3,4 @@
 ### hope you enjoy
 
 ### while youre here though, heres a nice kitty cat
-pallas_cat_sleeping.png
+[pallas_cat_sleeping.png](https://github.com/SparkerSp/sparkersp.github.io/blob/main/pallas_cat_sleeping.png?raw=true)
